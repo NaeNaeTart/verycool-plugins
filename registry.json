@@ -2,11 +2,11 @@
   {
     "id": "uppercase-plugin",
     "name": "🔠 Uppercase Tool",
-    "description": "A cool tool that probably makes things UPPERCASE!",
+    "description": "Transforms your lyrics into uppercase!",
     "author": "NaeNae",
     "version": "1.0.0",
     "type": "tool",
     "downloadUrl": "https://raw.githubusercontent.com/NaeNaeTart/verycool-plugins/main/uppercase_plugin.wasm",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    "sha256": "F4A73229BDF79F1E59C0C81C77DEBAC14CB833AC926001EF7E8BAE534E1496EE"
   }
 ]
