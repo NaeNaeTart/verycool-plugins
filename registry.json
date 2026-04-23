@@ -1,8 +1,8 @@
 [
   {
-    "id": "test-plugin",
-    "name": "🚀 Test Plugin",
-    "description": "This is a test entry to see if the store works!",
+    "id": "uppercase-plugin",
+    "name": "🔠 Uppercase Tool",
+    "description": "A cool tool that probably makes things UPPERCASE!",
     "author": "NaeNae",
     "version": "1.0.0",
     "type": "tool",
