@@ -1,0 +1,12 @@
+[
+  {
+    "id": "sample-plugin",
+    "name": "Cool Lyric Tool",
+    "description": "Does something amazing with lyrics.",
+    "author": "DevName",
+    "version": "1.0.0",
+    "type": "tool",
+    "downloadUrl": "https://github.com/DevName/repo/releases/download/v1.0.0/plugin.wasm",
+    "sha256": "8f32...actual_hash_here..."
+  }
+]
